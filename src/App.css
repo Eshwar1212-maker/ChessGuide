@@ -120,7 +120,7 @@ li a {
 
 
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 300px) {
     .main-h1  {
         font-size: 40px;
     }
